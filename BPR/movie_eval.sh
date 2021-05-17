@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python main.py --data_dir "../data/ml-25m" --data_name "movie" --model_file "movie_MF/model_best_2_16_16_28.pt" --vocab_file "vocab.json" --eval --batch_size 8 --user_emb_size 16 --item_emb_size 16
