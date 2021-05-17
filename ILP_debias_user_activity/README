@@ -1,0 +1,5 @@
+1. load the data
+2. separate user into groups 
+3. get the BPR results
+4. save the BPR prediction results into data_frame
+5. save user group ids into json file {"group1":[], "group2":[]}
